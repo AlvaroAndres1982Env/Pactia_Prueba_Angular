@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Angular\FBUsuarios\Transversal\bin\Debug\net6.0\Transversal.deps.json
+C:\Users\Usuario\Desktop\Angular\FBUsuarios\Transversal\bin\Debug\net6.0\Transversal.dll
+C:\Users\Usuario\Desktop\Angular\FBUsuarios\Transversal\bin\Debug\net6.0\Transversal.pdb
+C:\Users\Usuario\Desktop\Angular\FBUsuarios\Transversal\obj\Debug\net6.0\Transversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Angular\FBUsuarios\Transversal\obj\Debug\net6.0\Transversal.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Angular\FBUsuarios\Transversal\obj\Debug\net6.0\Transversal.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Angular\FBUsuarios\Transversal\obj\Debug\net6.0\Transversal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Angular\FBUsuarios\Transversal\obj\Debug\net6.0\Transversal.dll
+C:\Users\Usuario\Desktop\Angular\FBUsuarios\Transversal\obj\Debug\net6.0\refint\Transversal.dll
+C:\Users\Usuario\Desktop\Angular\FBUsuarios\Transversal\obj\Debug\net6.0\Transversal.pdb
+C:\Users\Usuario\Desktop\Angular\FBUsuarios\Transversal\obj\Debug\net6.0\ref\Transversal.dll
